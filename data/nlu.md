@@ -63,8 +63,8 @@
 - I am looking for [mexican indian fusion](cuisine)
 - can you book a table in [rome](location) in a [moderate](price:mid) price range with [british](cuisine) food for [four](people:4) people
 - [central](location) [indian](cuisine) restaurant
-- please help me to find restaurants in [pune](location)
-- Please find me a restaurantin [bangalore](location)
+- please help me to find restaurants in [pune](location) 
+- Please find me a restaurantin [bangalore](location) 
 - [mumbai](location)
 - [Chinese](cuisine:chinese)
 - show me restaurants
@@ -75,30 +75,87 @@
 - [delhi](location)
 - please find me a restaurant in [ahmedabad](location)
 - please show me a few [italian](cuisine) restaurants in [bangalore](location)
+- please find me table for 5 costing around rupees [900](pricerange)
+- show me restraurants within [500](pricerange) Rs
+- I am looking for some [cheap](pricerange) restaurants in [Delhi](location) 
+- I am looking for some [midrange](pricerange) restaurants in [Delhi](location) 
+- Please find me a [highclass](pricerange) restaurant
+- please help me to find restaurants in [pune](location) below [900](pricerange) per head
+- Please find me a restaurantin [bangalore](location) costing rupees [1000](pricerange) per head
+- looking for something [cheap](pricerange)
+- looking for something [highend](pricerange)
+- looking for something [midrange](pricerange)
+- I want a place to eat within [250](pricerange) rupees
+- Looking out for some good [south indian](cuisine) restaurants costing about [600](pricerange) per head
+- 
 
-## synonym:4
-- four
+
 
 ## synonym:Delhi
 - New Delhi
+- NCR
+- Dilli
 
 ## synonym:bangalore
 - Bengaluru
+- Banglore
+
+## synonym:mumbai
+- Bombay
+- Bambai
+
+## synonym:mysore
+- mysuru
+
+## synonym:bangalore
+- Bengaluru
+- Banglore
+
+
+## synonym:highend
+- highclass
+- classy
+- costly
+- posh
+- pricy
+- fancy
+- hiend
+
+## synonym:midrange
+- VFM
+- value for money
+- not very costly
+
+## synonym:cheap
+- budget
+- low price
+- economical
+- inexpensive
 
 ## synonym:chinese
 - chines
 - Chinese
 - Chines
+- china food
 
-## synonym:mid
-- moderate
 
-## synonym:vegetarian
-- veggie
-- vegg
+## synonym:mexican
+- mexico
+- 
+
+## synonym:italian
+- italy
+
+## synonym:american
+- america
+
+## synonym:north indian
+- north
+## synonym:south indian
+- south
+
 
 ## regex:greet
 - hey[^\s]*
 
-## regex:pincode
-- [0-9]{6}
+
